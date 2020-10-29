@@ -12,7 +12,7 @@ import redStar from '../../images/redStar.png'
 import SweetPeas from '../../images/SweetPeas.png'
 
 const GridBackground = styled.div`
-height: 60vh;
+height: 70vh;
 width: 100vw;
 background-color: ${Theme.backgroundGrid};
 border-bottom: 1px solid ${Theme.borderColor};
