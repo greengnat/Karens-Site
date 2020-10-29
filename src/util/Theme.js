@@ -6,5 +6,6 @@ export default {
 
   aboutText: "#333",
 
+  logoColor: "white",
   borderColor: "#ddd",
 };

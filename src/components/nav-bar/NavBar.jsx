@@ -11,7 +11,7 @@ text-align: center;
 align-items: center;
 font-weight: bold;
 font-family: 'Rokkitt', serif;
-color: white;
+color: ${Theme.logoColor};
 font-size: 2rem;
 z-index: 2;
 `
