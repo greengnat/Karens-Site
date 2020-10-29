@@ -1,3 +1,5 @@
+let Theme;
+
 export default Theme = {
   backgroundNav: "black",
   backgroundGrid: "#f3f3f3",
